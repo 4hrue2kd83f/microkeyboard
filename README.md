@@ -1,7 +1,10 @@
-# microkeyboard
+# #microkeyboard
 A keyboard for micro:bit.
 
-## Lisence
+## #how-to-use
+Use A and B to select a letter. Shake to send it to another micro:bit via bluetooth.
+
+## #lisence
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
